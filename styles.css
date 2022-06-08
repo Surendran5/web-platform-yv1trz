@@ -2,7 +2,7 @@ body {
   width: 1200px;
   margin: 50px auto;
   box-sizing: border-box;
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 .flex-container {
   display: flex;
@@ -10,7 +10,7 @@ body {
   flex-direction: column;
   align-content: center;
   height: 760px;
-  background-image: url("desk-593327_1280.jpg");
+  background-image: url('https://cdn.pixabay.com/photo/2014/12/15/14/05/home-office-569153_960_720.jpg');
 }
 .card {
   display: flex;
